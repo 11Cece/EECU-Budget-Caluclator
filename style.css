@@ -203,7 +203,7 @@
       font-size: 14px;
     }
 
-    #step-2 {
+    #steps {
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -223,7 +223,7 @@
       border-collapse: collapse;
       box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.1);    }
 
-    #h2-step2 {
+    #h2-steps {
       padding-bottom: 3.5rem;
     }
 
@@ -261,4 +261,9 @@
     
     #continue-bttn:visited {
       color: white;
+    }
+
+    #Annual-income-1 {
+      font-size: large;
+      width: 500px;
     }
